@@ -1,0 +1,9 @@
+{
+  "name": "quad-tree",
+  "version": "1.0.0",
+  "description": "quadtree implementation in Js",
+  "main": "index.html",
+  "author": "coding-flash",
+  "license": "MIT",
+  "private": true
+}
