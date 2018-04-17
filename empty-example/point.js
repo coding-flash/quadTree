@@ -7,6 +7,6 @@ class Point{
     }
 
     fraw = function(){
-        
+        // one more line added.
     };
 }
